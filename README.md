@@ -1,4 +1,4 @@
-# home-assistant Config
+
 # homeiotautomation - Home-Assistant Config
 
 Hardware - [Raspberry Pi3](https://www.microsoft.com/en-ca/store/d/raspberry-pi-3-board-and-16gb-10class-with-noobs/8zgwhg9k487r?activetab=pivot%3aoverviewtab) expanded to 16GB 
