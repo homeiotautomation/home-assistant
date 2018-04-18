@@ -38,7 +38,7 @@ SSL via [Lets Encrypt](https://letsencrypt.org)
 * Nest Protect
 * Xiaomi Smart Home Aqara Human Motion Sensor
 * Xiaomi Smart Door and Windows Sensor
-* Emulated Hue pushes all Light, Switch, Group and scene for Amazon echo control.
+* Emulated Hue pushes all Light, Switch, Group and Scene for Amazon Echo control.
 * NUVISION Tablet running Vox Commando AKA **JARVIS AI** for Offline voice control. - *Disabled* - Need a mini PC and better far field array MIC.
 
 **Automations:**
