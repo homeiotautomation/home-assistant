@@ -1,7 +1,7 @@
 
 # homeiotautomation - Home-Assistant Config
 
-Hardware - [Raspberry Pi3](https://www.microsoft.com/en-ca/store/d/raspberry-pi-3-board-and-16gb-10class-with-noobs/8zgwhg9k487r?activetab=pivot%3aoverviewtab) expanded to 16GB 
+Hardware - [Raspberry Pi3+](https://www.microsoft.com/en-ca/store/d/raspberry-pi-3-board-and-16gb-10class-with-noobs/8zgwhg9k487r?activetab=pivot%3aoverviewtab) expanded to 16GB 
 
 Software on the Pi - [HassIO](https://www.home-assistant.io/hassio/) - [Home Assistant](https://home-assistant.io/) 
 
@@ -18,6 +18,10 @@ SSL via [Lets Encrypt](https://letsencrypt.org)
 * Ubiquiti Networks EdgeRouter™ X.
 * SmartThings Hub for ZWAVE and Zigbee control.
 * Philips Hue Hub Gen2.
+* Philips Hue White and Color
+* Philips Hue White Ambiance
+* Cree Connected Daylight
+* SYLVANIA SMART+ Adjustable White
 * Logitech Harmony Hub.
 * Broadlink RM PRO to control Portable Aircon, IR fans & Aukey 433mhz RF.
 * Amazon Echo DOT Online Voice Control(AE).
@@ -33,11 +37,12 @@ SSL via [Lets Encrypt](https://letsencrypt.org)
 * Chromecast Audio.
 * AukeyOutlets - Cheap $7 RF outlet control!
 * Vansky LED Controlled by Aukey Outlets.
-* Wemo Switches - Control AirPurifier and Humidifier
+* Wemo Switches - Control AirPurifier and Humidifier.
 * Nest Camera.
-* Nest Protect
-* Xiaomi Smart Home Aqara Human Motion Sensor
-* Xiaomi Smart Door and Windows Sensor
+* Nest Protect.
+* August Smart Lock.
+* Xiaomi Smart Home Aqara Human Motion Sensor.
+* Xiaomi Smart Door and Windows Sensor.
 * Emulated Hue pushes all Light, Switch, Group and Scene for Amazon Echo control.
 * NUVISION Tablet running Vox Commando AKA **JARVIS AI** for Offline voice control. - *Disabled* - Need a mini PC and better far field array MIC.
 
@@ -58,7 +63,8 @@ SSL via [Lets Encrypt](https://letsencrypt.org)
 * Daughters Bedroom motion, turns on bedroom from 7am to 11pm, no motion within 5min lights turns off
 * HA Alarm - Perimiter, Home and Away. Intruder notification alarm via GHM.
 * HA Alarm - Arm Home Mode 12:30am
-* Send text to cell phone when alarm is truggered
+* Sends notification to cell phone when Frontdoor/Backdoor is triggered
+* Sends notification to cell phone when alarm is triggered
 
 
 **Voice Control: via Google Home Mini(GHM), Amazon Echo(AE), JARVIS - *Disabled*, SIRI via[Homebridge] - (WIP)**
