@@ -1,7 +1,7 @@
 
 # homeiotautomation - Home-Assistant Config
 
-Hardware - [Raspberry Pi3+](https://www.microsoft.com/en-ca/store/d/raspberry-pi-3-board-and-16gb-10class-with-noobs/8zgwhg9k487r?activetab=pivot%3aoverviewtab) expanded to Samsung EVO+32GB 
+Hardware - [Raspberry Pi3+](https://www.microsoft.com/en-ca/store/d/raspberry-pi-3-board-and-16gb-10class-with-noobs/8zgwhg9k487r?activetab=pivot%3aoverviewtab) with Samsung EVO+32GB 
 
 Software on the Pi - [HassIO](https://www.home-assistant.io/hassio/) - [Home Assistant](https://home-assistant.io/) 
 
