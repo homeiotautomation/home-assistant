@@ -69,7 +69,7 @@ SSL via [Lets Encrypt](https://letsencrypt.org)
 
 **Voice Control: via Google Home Mini(GHM), Amazon Echo(AE), JARVIS - *Disabled*, SIRI via[Homebridge] - (WIP)**
 
-* Turn all lights, light groups On/Off with voice confirmation
+* Turn all lights, light groups, and specific light On/Off with voice confirmation
 * Change light color, hue, saturation and brightness with voice confirmation
 * TV On/Off, Channels, volume by 2 or 5 increment/decrement
 * Entertainment - TV, Nexus Player and Yamaha Receiver
